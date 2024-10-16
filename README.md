@@ -1,1 +1,1 @@
-jeanbaptiste-tech description
+jeanbaptiste-tech description basics
